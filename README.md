@@ -22,6 +22,8 @@ ScreenStream is a responsive web application built with React.js and Material UI
 
 •	TMDB API: Provides a vast database of movies and TV series.
 
+Live site hosted here - https://screenstream.netlify.app/
+
 # Contributing -
 
 Contributions are welcome! Please feel free to submit pull requests or report issues on the GitHub repository.
